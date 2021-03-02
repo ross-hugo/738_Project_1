@@ -20,6 +20,7 @@ Requirements:
 • Preferably Small Number of Classes Dataset
 
 How does it work?
-• K-Means instead takes how many groups instead of how how many points in the group by taking the k averages of points
+
+• K-Means is an unsupervised learning model that takes how many clusters to use for classification
 
 More discussion and evaluation of my implementation is in the kmeans.ipynb
