@@ -2,8 +2,7 @@
 First Project for Machine Learning Class (EECS 738)
 
 ## Algorithms used
-I used two different algorithms on two different datasets
-- K-Means
+I used the algorithm K-Means for this project
 
 ## Datasets Used
 - [Mushroom Poisonous Dataset]{https://www.kaggle.com/uciml/mushroom-classification}
