@@ -12,8 +12,11 @@ I used the algorithm K-Means for this project
 - K-Means 
 
 Requirements:
+
 • Properly Labeled Data
+
 • Noise-Free Data
+
 • Preferably Small Number of Classes Dataset
 
 How does it work?
