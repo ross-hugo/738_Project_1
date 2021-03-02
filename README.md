@@ -6,8 +6,8 @@ I used two different algorithms on two different datasets
 - K-Means
 
 ## Datasets Used
-- []{}
-- []{}
+- [https://www.kaggle.com/uciml/mushroom-classification]{Mushroom Poisonous Dataset}
+- [https://www.kaggle.com/uciml/autompg-dataset]{Car MPG Dataset}
 
 ## Implementation
 - K-Means 
